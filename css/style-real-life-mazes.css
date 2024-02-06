@@ -369,6 +369,15 @@ img {
   font-size: 1.125rem;
   line-height: 1.7;
   letter-spacing: 0.3px;
+  margin-bottom: 1rem;
+}
+.maze-text,
+.review-text {
+  margin-bottom: 1rem;
+}
+.maze-text:last-child,
+.review-text:last-child {
+  margin-bottom: 0;
 }
 .maze-reviews {
   /* padding: 0 1rem; */
